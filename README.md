@@ -18,12 +18,10 @@ Here are a few projects that showcase my skills and interests. Check them out!
 | Project | Description |
 | ["**todo-web-app**"](https://github.com/zen-ash/todo-web-app) | A dynamic to-do list that persists tasks locally, built with vanilla JavaScript. |
 | ["**weather-app**"](https://github.com/zen-ash/weather-app) | A lightweight weather app consuming the OpenWeatherMap API to display real-time conditions. |
-| ["**Small-Projects**"](https://github.com/zen-ash/Small-Projects) | A collection of mini-projects and algorithm practice problems written in Python and Jav
+| ["**Small-Projects**"](https://github.com/zen-ash/Small-Projects) | A collection of mini-projects and algorithm practice problems written in Python and JavaS
 | ["**rentwise**"](https://github.com/zen-ash/rentwise) | A rental listing web app built with HTML, CSS, and JavaScript to browse properties. |
-
 | ["**timetable**"](https://github.com/zen-ash/timetable) | A timetable scheduling web app built with HTML, CSS, and JavaScript to manage daily schedules. |
-
-
+t
 ### 📫 Get in Touch
 
 Feel free to reach out if you'd like to collaborate or just say hello!
