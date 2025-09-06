@@ -14,14 +14,14 @@ I'm a software engineer with a passion for building clean, scalable front‑end 
 ### 🛠 Featured Projects
 
 Here are a few projects that showcase my skills and interests. Check them out!
-
 | Project | Description |
-| ["**todo-web-app**"](https://github.com/zen-ash/todo-web-app) | Dynamic to-do list built with vanilla JavaScript. |
-| ["**weather-app**"](https://github.com/zen-ash/weather-app) | Weather app using OpenWeatherMap API for real-time conditions. |
-| ["**Small-Projects**"](https://github.com/zen-ash/Small-Projects) | Mini-projects and algorithm practice problems in Python & JS. |
-| ["**rentwise**"](https://github.com/zen-ash/rentwise) | Rental listing web app built with HTML, CSS, and JavaScript. |
-|| ["**timetable**"](https://github.com/zen-ash/timetable) | Timetable scheduling web app built with HTML, CSS, and JavaScript. 
-t
+| --- | --- |
+| [**todo-web-app**](https://github.com/zen-ash/todo-web-app) | Dynamic to-do list built with vanilla JavaScript. |
+| [**weather-app**](https://github.com/zen-ash/weather-app) | Weather app using OpenWeatherMap API for real-time conditions. |
+| [**Small-Projects**](https://github.com/zen-ash/Small-Projects) | Mini-projects and algorithm practice problems in Python & JS. |
+| [**rentwise**](https://github.com/zen-ash/rentwise) | Rental listing web app built with HTML, CSS, and JavaScript. |
+| [**timetable**](https://github.com/zen-ash/timetable) | Timetable scheduling web app built with HTML, CSS, and JavaScript. |
+
 ### 📫 Get in Touch
 
 Feel free to reach out if you'd like to collaborate or just say hello!
