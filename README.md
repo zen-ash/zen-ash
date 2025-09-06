@@ -16,13 +16,13 @@ I'm a software engineer with a passion for building clean, scalable front‑end 
 Here are a few projects that showcase my skills and interests. Check them out!
 
 | Project | Description |
-| ------ | ----------- |
-| [**E‑commerce‑Product‑Page**](https://github.com/zen-ash/E-commerce-Product-Page) | Amazon‑style product detail page built with HTML, CSS, and JavaScript demonstrating responsive layouts and interactive UI components. |
-| [**Movie‑Database‑Clone**](https://github.com/zen-ash/Movie-Database-Clone) | A simple movie database interface clone showing API integration and client‑side rendering. |
-| [**todo‑web‑app**](https://github.com/zen-ash/todo-web-app) | A dynamic to‑do list that persists tasks locally, built with vanilla JavaScript. |
-| [**weather‑app**](https://github.com/zen-ash/weather-app) | Lightweight weather app consuming the OpenWeatherMap API to display real‑time conditions. |
-| [**Hacklytics‑Project**](https://github.com/zen-ash/Hacklytics-Project) | Collaborative hackathon project featuring innovative solutions and teamwork. |
-| [**Small‑Projects**](https://github.com/zen-ash/Small-Projects) | A collection of mini‑projects and algorithm practice problems written in Python and JavaScript. |
+| ["**todo-web-app**"](https://github.com/zen-ash/todo-web-app) | A dynamic to-do list that persists tasks locally, built with vanilla JavaScript. |
+| ["**weather-app**"](https://github.com/zen-ash/weather-app) | A lightweight weather app consuming the OpenWeatherMap API to display real-time conditions. |
+| ["**Small-Projects**"](https://github.com/zen-ash/Small-Projects) | A collection of mini-projects and algorithm practice problems written in Python and Jav
+| ["**rentwise**"](https://github.com/zen-ash/rentwise) | A rental listing web app built with HTML, CSS, and JavaScript to browse properties. |
+
+| ["**timetable**"](https://github.com/zen-ash/timetable) | A timetable scheduling web app built with HTML, CSS, and JavaScript to manage daily schedules. |
+
 
 ### 📫 Get in Touch
 
