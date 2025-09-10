@@ -3,7 +3,7 @@
 CS @ Georgia State ’27 · Open to Summer 2026 SWE internships  
 📍 Atlanta, GA
 
-I'm a software engineer with a passion for building clean, scalable front‑end and full‑stack applications. My primary focus is on the JavaScript/TypeScript ecosystem — React, Node.js, Express, and MongoDB (the MERN stack). I'm also continuously sharpening my problem‑solving skills through algorithms and data structures.
+I'm a software engineer with a passion for building clean, scalable front‑end and full‑stack applications. My primary focus is on the JavaScript/TypeScript ecosystem : React, Node.js, Express, and MongoDB (the MERN stack). I'm also continuously sharpening my problem‑solving skills through algorithms and data structures.
 
 ### 🔧 Technologies & Tools
 
