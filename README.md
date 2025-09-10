@@ -21,6 +21,9 @@ Here are a few projects that showcase my skills and interests. Check them out!
 | [**Small-Projects**](https://github.com/zen-ash/Small-Projects) | Mini-projects and algorithm practice problems in Python & JS. |
 | [**rentwise**](https://github.com/zen-ash/rentwise) | Rental listing web app built with HTML, CSS, and JavaScript. |
 | [**timetable**](https://github.com/zen-ash/timetable) | Timetable scheduling web app built with HTML, CSS, and JavaScript. |
+| ["**E-commerce-Product-Page**"](https://github.com/zen-ash/E-commerce-Product-Page) | React-based product detail page inspired by Amazon with interactive image gallery and shopping cart. |
+| ["**Movie-Database-Clone**"](https://github.com/zen-ash/Movie-Database-Clone) | Netflix-style movie catalog UI built with HTML, CSS, and JavaScript. |
+
 
 ### 📫 Get in Touch
 
