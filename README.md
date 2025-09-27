@@ -29,4 +29,4 @@ Here are a few projects that showcase my skills and interests. Check them out!
 
 Feel free to reach out if you'd like to collaborate or just say hello!
 
-[![Email](https://img.shields.io/badge/Email-aayushmeetsash@gmail.com-blue?style=flat&logo=gmail)](mailto:aayushmeetsash@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kaayush2804@gmail.com-blue?style=flat&logo=gmail)](mailto:kaayush2804@gmail.com)
