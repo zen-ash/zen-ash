@@ -1,24 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:1E3A8A,100:0EA5E9&height=220&section=header&text=Aayush%20Kumar&fontSize=62&fontColor=F8FAFC&animation=fadeIn&fontAlignY=32&desc=Data%20Analyst%20%E2%80%A2%20SQL%20%7C%20Python%20%7C%20Tableau%20%7C%20Power%20BI&descSize=18&descAlignY=54" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Aayush Kumar — Data Analyst · SQL, Python, Tableau, Power BI · open to Data/BI Analyst internships · Atlanta, GA"/>
 
-<a href="https://github.com/zen-ash"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Turning+messy+data+into+decisions+people+can+defend;A%2FB+testing+%E2%80%A2+Operations+analytics+%E2%80%A2+BI+dashboards;SQL+%7C+Python+%7C+Tableau+%7C+Power+BI+%7C+dbt" alt="typing banner"/></a>
+<img src="assets/metrics.svg" width="100%" alt="1.2M NYC 311 requests analyzed · 99K orders joined across 8 tables · 64K customers A/B tested · 840K IPUMS-CPS records cleaned"/>
 
-<br/>
-
-<a href="https://www.linkedin.com/in/zen-ash"><img src="https://img.shields.io/badge/Open%20to-Data%20%2F%20BI%20Analyst%20Internships-22C55E?style=for-the-badge&logoColor=white" alt="open to work"/></a>
-<img src="https://img.shields.io/badge/Atlanta,%20GA-0EA5E9?style=for-the-badge" alt="location"/>
 <img src="https://komarev.com/ghpvc/?username=zen-ash&style=for-the-badge&color=1E3A8A&label=Profile+Views" alt="profile views"/>
+<a href="https://www.linkedin.com/in/zen-ash"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://public.tableau.com/app/profile/aayush.kumar3621"><img src="https://img.shields.io/badge/Dashboards-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/></a>
 
 </div>
 
-## 👋 About me
+## 🧾 About me — as a query
 
-- 🎓 **Computer Science @ Georgia State University** — GPA **3.9**, Atlanta, GA
-- 🔬 **Undergraduate Research Assistant** — econometrics on **840K** IPUMS-CPS records (Python, Stata, SQL): diff-in-diff & fixed-effects models, plus a refresh pipeline that turned a 5-hour manual update into a 10-minute run
-- 🏢 **2 years as a Housing Operations Data Analyst** — cleaning, auditing, and dashboarding real operational data with Python, SQL, and Tableau
-- 🧪 Happiest working on **experimentation, operations analytics, and KPI reporting** — and checking what's *actually* stored inside a "date" column
-- 🎯 Currently seeking **Data Analyst / BI / Product & Operations Analytics** internships
+```sql
+SELECT *
+FROM   analysts
+WHERE  username = 'zen-ash';
+-- pro tip: always look at what's ACTUALLY stored inside a "date" column
+```
+
+| field | value |
+|---|---|
+| 🎓 `education` | B.S. Computer Science @ **Georgia State University** — GPA **3.9**, Atlanta, GA |
+| 🔬 `current_role` | **Undergraduate Research Assistant** — econometrics on **840K** IPUMS-CPS records (Python, Stata, SQL): diff-in-diff & fixed-effects models, plus a refresh pipeline that turned a 5-hour manual update into a 10-minute run |
+| 🏢 `experience` | **2 years as a Housing Operations Data Analyst** — cleaning, auditing, and dashboarding real operational data with Python, SQL, and Tableau |
+| 🧪 `focus` | Experimentation · operations analytics · KPI reporting · data validation |
+| 🎯 `seeking` | **Data Analyst / BI / Product & Operations Analytics internships** |
+
+<div align="right"><sub><code>→ 1 row returned (0.04 s)</code></sub></div>
 
 ## 📊 Featured analytics work
 
@@ -71,8 +80,6 @@
 
 <br/><br/>
 
-*Every number above is one I can defend.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,60:1E3A8A,100:0F172A&height=120&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt="footer — every number above is one I can defend"/>
 
 </div>
