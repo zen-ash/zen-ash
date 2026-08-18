@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 170" role="img" aria-label="Key metrics from analytics projects">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+    <style>
+      text { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="170" fill="none"/>
+
+  <g>
+    <rect x="8" y="10" width="296" height="150" rx="16" fill="#0F172A" stroke="#1E293B"/>
+    <text x="36" y="72" font-size="42" font-weight="700" fill="#F8FAFC">1.2M</text>
+    <text x="36" y="100" font-size="14" fill="#94A3B8">NYC 311 service requests analyzed</text>
+    <text x="36" y="122" font-size="12" fill="#475569" class="mono">SLA-risk flags · long-tail backlog</text>
+    <polyline points="36,142 76,138 116,140 156,134 196,136 236,128 268,130" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="332" y="10" width="296" height="150" rx="16" fill="#0F172A" stroke="#1E293B"/>
+    <text x="360" y="72" font-size="42" font-weight="700" fill="#F8FAFC">99K</text>
+    <text x="360" y="100" font-size="14" fill="#94A3B8">orders joined across 8 tables</text>
+    <text x="360" y="122" font-size="12" fill="#475569" class="mono">late delivery → −1.7★ reviews</text>
+    <polyline points="360,132 400,140 440,134 480,142 520,136 560,144 592,138" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="656" y="10" width="296" height="150" rx="16" fill="#0F172A" stroke="#1E293B"/>
+    <text x="684" y="72" font-size="42" font-weight="700" fill="#F8FAFC">64K</text>
+    <text x="684" y="100" font-size="14" fill="#94A3B8">customers in a randomized A/B/n test</text>
+    <text x="684" y="122" font-size="12" fill="#475569" class="mono">+0.6pp lift · $0.74 / customer</text>
+    <polyline points="684,144 724,140 764,142 804,134 844,138 884,128 916,124" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <g>
+    <rect x="980" y="10" width="296" height="150" rx="16" fill="#0F172A" stroke="#1E293B"/>
+    <text x="1008" y="72" font-size="42" font-weight="700" fill="#F8FAFC">840K</text>
+    <text x="1008" y="100" font-size="14" fill="#94A3B8">IPUMS-CPS records cleaned &amp; merged</text>
+    <text x="1008" y="122" font-size="12" fill="#475569" class="mono">missing values: 11% → 2%</text>
+    <polyline points="1008,128 1048,134 1088,130 1128,138 1168,134 1208,142 1240,140" fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+</svg>
