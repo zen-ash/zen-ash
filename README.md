@@ -55,14 +55,6 @@
 
 </div>
 
-## 📈 GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zen-ash&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub stats"/>
-
-</div>
-
 ## 🚢 Also shipping
 
 - 📱 **[On Track](https://github.com/zen-ash/on-track)** — an iOS app (Swift) that captures tasks from the Lock Screen or Siri before you forget them: natural-language dates, priorities, recurrence — parsed on-device
